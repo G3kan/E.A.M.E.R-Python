@@ -4,7 +4,7 @@ Bu depo, Python programlama dilini öğrenmeye yeni başlayanlar için hazırlan
 
 Temel Düzey İçin Beklenene Kriterler;
 
-Python Temel -1 Modülü
+Python Temeller -1 Modülü
 
 Veri Analizi -1 Modülü
 
