@@ -8,6 +8,8 @@ Sizden Yapılması Beklenen
 -Temiz veri ile şirkette çalışan personelin hangi burçtan olduğunu bulmanız
 -jpyther kullanarak Sunum yapmanız
 
+-Yapay Zeka desteği vb. kulanabilirsiniz sizden beklenen konuyu net bir şekilde açıklamanız
+
 
 
 
