@@ -1,0 +1,18 @@
+Size sağlanan sirket_calisan_verisi_5000.csv dosyası, 5.000 kişilik (veya daha fazla) bir şirkete ait olduğu varsayılan, 
+sentetik olarak üretilmiş çalışan verilerini içermektedir. Bu veri seti, 
+bilinçli olarak bazı yaygın hataları içerecek şekilde tasarlanmıştır.
+
+Sizden Yapılması Beklenen
+
+-İlgili csv dosyasını temizlemeniz 
+-Temiz veri ile şirkette çalışan personelin hangi burçtan olduğunu bulmanız
+-jpyther kullanarak Sunum yapmanız
+
+
+
+
+
+
+
+
+
